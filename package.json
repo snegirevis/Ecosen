@@ -1,0 +1,22 @@
+{
+  "name": "ecosen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "owl.carousel": "^2.3.4"
+  }
+}
